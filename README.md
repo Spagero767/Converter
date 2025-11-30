@@ -42,22 +42,3 @@ npm run dev
 
 > ⚠️ No API key required — this project uses [exchangerate.host](https://exchangerate.host/) (free, no signup)
 
----
-
-## 🌐 Deployment
-
-This project is deployed on [Vercel](https://vercel.com/) —  
-🔗 [Live Link](https://qasimrokeeb-currency-converter-app.vercel.app/)
-
----
-
-
-## 🙋‍♂️ About Me
-
-- 🔗 Portfolio: [qasimrokeeb.vercel.app](https://qasimrokeeb.vercel.app)
-- 🐦 Twitter: [@qasimrokeeb](https://x.com/qasimrokeeb)
-- 💻 GitHub: [Qasim-Rokeeb](https://github.com/Qasim-Rokeeb)
-
----
-
-Made with 💻 by [Qasim Rokeeb](https://github.com/Qasim-Rokeeb)
