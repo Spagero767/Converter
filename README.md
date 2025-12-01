@@ -1,8 +1,5 @@
 ### Currency Converter App 💱
 
-
----
-
 ## 🚀 What I Learned
 
 ✅ How to work with `useState` and `useEffect`  
